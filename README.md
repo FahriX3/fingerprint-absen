@@ -7,8 +7,8 @@ Sistem absensi siswa menggunakan **sensor sidik jari (AS608)** + **ESP32**, dan 
 ---
 
 ## 🔧 Struktur Proyek
-- `arduino/` → Program ESP32 untuk membaca dan mengirim data sidik jari
-- `web/` → Dashboard web untuk melihat data absensi
+- `ESP32/` → Program ESP32 untuk membaca dan mengirim data sidik jari
+- `WEB/` → Dashboard web untuk melihat data absensi
 
 ---
 
