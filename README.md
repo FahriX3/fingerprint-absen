@@ -1,4 +1,6 @@
-Bismilah
+![Foto produk](Gambar/Foto1.jpeg)
+
+
 # 📚 Fingerprint Attendance System
 Sistem absensi siswa menggunakan **sensor sidik jari (AS608)** + **ESP32**, dan **dashboard web** berbasis PHP + MySQL.
 
